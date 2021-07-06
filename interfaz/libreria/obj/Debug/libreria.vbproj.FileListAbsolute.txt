@@ -1,0 +1,12 @@
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\bin\Debug\libreria.exe.config
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\bin\Debug\libreria.exe
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\bin\Debug\libreria.pdb
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\bin\Debug\libreria.xml
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.vbprojAssemblyReference.cache
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.Resources.resources
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.vbproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.vbproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.exe
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.xml
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.pdb
+C:\Users\manue\OneDrive\Documentos\interfaz\libreria\obj\Debug\libreria.Form1.resources
